@@ -1,0 +1,111 @@
+Employee ID,Full Name,Job Title,Department,Gender,Ethnicity,Age,Annual Salary,Bonus %,Country
+E02002,Kai Le,Controls Engineer,Engineering,Male,Asian,47,92368,0,United States
+E02003,Robert Patel,Analyst,Sales,Male,Asian,58,45703,0,United States
+E02004,Cameron Lo,Network Administrator,IT,Male,Asian,34,83576,0,China
+E02005,Harper Castillo,IT Systems Architect,IT,Female,Latino,39,98062,0,United States
+E02006,Harper Dominguez,Director,Engineering,Female,Latino,42,175391,0.24,United States
+E02007,Ezra Vu,Network Administrator,IT,Male,Asian,62,66227,0,United States
+E02008,Jade Hu,Sr. Analyst,Accounting,Female,Asian,58,89744,0,China
+E02009,Miles Chang,Analyst II,Finance,Male,Asian,62,69674,0,China
+E02011,Jameson Thomas,Manager,Finance,Male,Caucasian,52,105879,0.1,United States
+E02012,Jameson Pena,Systems Analyst,IT,Male,Latino,49,40499,0,United States
+E02013,Bella Wu,Sr. Analyst,Finance,Female,Asian,63,71418,0,United States
+E02014,Jose Wong,Director,IT,Male,Asian,45,150558,0.23,China
+E02015,Lucas Richardson,Manager,Marketing,Male,Caucasian,36,118912,0.08,United States
+E02016,Jacob Moore,Sr. Manager,Marketing,Male,Black,42,131422,0.15,United States
+E02017,Luna Lu,IT Systems Architect,IT,Female,Asian,62,64208,0,United States
+E02018,Bella Tran,Vice President,Engineering,Female,Asian,45,254486,0.33,China
+E02019,Ivy Chau,Analyst,Sales,Female,Asian,61,54811,0,China
+E02020,Jordan Kumar,Service Desk Analyst,IT,Male,Asian,29,95729,0,United States
+E02021,Sophia Gutierrez,Manager,Accounting,Female,Latino,63,102649,0.06,United States
+E02022,Eli Dang,Sr. Manager,Accounting,Male,Asian,45,122875,0.12,United States
+E02023,Lillian Lewis,Technical Architect,IT,Female,Black,43,83323,0,United States
+E02024,Serenity Cao,Account Representative,Sales,Female,Asian,31,66721,0,China
+E02025,Parker Lai,Vice President,Accounting,Male,Asian,48,246400,0.36,China
+E02026,Charles Simmons,Manager,Sales,Male,Caucasian,55,113525,0.06,United States
+E02027,Jayden Luu,Director,Accounting,Male,Asian,64,184342,0.22,China
+E02028,Brooks Richardson,Director,Marketing,Male,Caucasian,58,151341,0.22,United States
+E02029,Ivy Thompson,Manager,Marketing,Female,Caucasian,50,118900,0.05,United States
+E02030,Peyton Wright,Sr. Manager,Marketing,Female,Black,41,153370,0.1,United States
+E02032,Ruby Alexander,Vice President,Finance,Female,Caucasian,59,255610,0.36,United States
+E02033,Axel Oh,Sr. Analyst,Sales,Male,Asian,26,84962,0,China
+E02034,Axel Ramirez,Manager,Human Resources,Male,Latino,55,103795,0.07,United States
+E02035,Liliana Chang,Service Desk Analyst,IT,Female,Asian,32,97509,0,China
+E02036,Leonardo Carter,Business Partner,Human Resources,Male,Caucasian,50,54931,0,United States
+E02037,Landon Gonzales,Test Engineer,Engineering,Male,Latino,54,88689,0,United States
+E02038,Amelia Dominguez,Sr. Manager,Accounting,Female,Latino,31,158184,0.15,Brazil
+E02039,Silas Ross,Analyst,Marketing,Male,Caucasian,47,48523,0,United States
+E02040,Jeremiah Cheng,Sr. Analyst,Marketing,Male,Asian,26,70946,0,China
+E02041,Chloe Chin,Sr. Manager,Finance,Female,Asian,62,134487,0.1,United States
+E02042,Ella Martinez,Sr. Analyst,Finance,Female,Latino,35,76111,0,United States
+E02043,Gianna Jones,Manager,Accounting,Female,Caucasian,48,119220,0.09,United States
+E02044,Austin Chow,Vice President,Accounting,Male,Asian,35,180858,0.32,China
+E02045,Ella Chen,Manager,Accounting,Female,Asian,45,114072,0.08,United States
+E02046,Ruby Kaur,Test Engineer,Engineering,Female,Asian,26,91672,0,China
+E02047,Savannah Morales,Analyst II,Marketing,Female,Latino,48,71542,0,United States
+E02048,Luca Powell,IT Coordinator,IT,Male,Caucasian,33,54700,0,United States
+E02049,Parker Thao,Analyst II,Sales,Male,Asian,55,65022,0,China
+E02050,Ryan Vo,Cloud Infrastructure Architect,IT,Male,Asian,38,65109,0,United States
+E02051,Isabella Ngo,Manager,Accounting,Female,Asian,49,126598,0.09,United States
+E02052,Leah Vega,Cloud Infrastructure Architect,IT,Female,Latino,52,72388,0,United States
+E02053,Jaxson Liu,Vice President,Finance,Male,Asian,27,205216,0.36,United States
+E02054,Santiago f Ross,Enterprise Architect,IT,Male,Caucasian,34,74004,0,United States
+E02055,Layla Bell,Vice President,Engineering,Female,Caucasian,65,203030,0.31,United States
+E02056,Bella Morales,Director,Sales,Female,Latino,38,194864,0.24,United States
+E02057,Eliza Kang,Computer Systems Manager,IT,Female,Asian,63,76659,0.05,United States
+E02058,Gabriel Reyes,Manager,Sales,Male,Latino,42,101630,0.08,Brazil
+E02059,Piper Garcia,Sr. Manager,Sales,Female,Latino,60,126929,0.12,Brazil
+E02060,Jacob Cheng,Director,Sales,Male,Asian,47,155890,0.17,United States
+E02061,Nathan Hong,Director,Finance,Male,Asian,50,150631,0.17,United States
+E02062,Chloe Kim,Sr. Analyst,Sales,Female,Asian,39,72850,0,United States
+E02063,Isaac Guzman,Account Representative,Sales,Male,Latino,46,57951,0,United States
+E02064,Julian Ford,Analyst II,Sales,Male,Caucasian,50,70340,0,United States
+E02065,Kinsley Liang,Automation Engineer,Engineering,Female,Asian,55,98221,0,China
+E02066,Wesley Yu,Sr. Manager,Sales,Male,Asian,43,127175,0.12,United States
+E02067,Serenity Martin,Sr. Analyst,Finance,Female,Black,26,97542,0,United States
+E02068,Ethan Sanchez,Sr. Analyst,Marketing,Male,Latino,34,81646,0,United States
+E02069,David Sanchez,Director,Sales,Male,Latino,38,182055,0.27,Brazil
+E02070,Elias Hsu,Sr. Analyst,Marketing,Male,Asian,35,86777,0,China
+E02071,Luca Phan,Manager,Marketing,Male,Asian,39,129949,0.09,China
+E02072,Olivia Xi,Manager,Sales,Female,Asian,26,124535,0.06,United States
+E02073,Alice Luu,System Administrator,IT,Female,Asian,60,81083,0,United States
+E02074,Leonardo Ng,Analyst,Marketing,Male,Asian,32,57727,0,China
+E02075,Peyton Edwards,Analyst II,Finance,Female,Caucasian,65,59344,0,United States
+E02076,Axel Patel,Sr. Analyst,Sales,Male,Asian,27,73203,0,United States
+E02077,Eva Chavez,IT Systems Architect,IT,Female,Latino,63,83070,0,Brazil
+E02078,Savannah Lee,Manager,Human Resources,Female,Asian,51,104008,0.1,China
+E02079,Mia Grant,Solutions Architect,IT,Female,Caucasian,43,70923,0,United States
+E02080,Eli Richardson,Sr. Manager,Marketing,Male,Black,31,159121,0.14,United States
+E02081,Eloise Perry,Sr. Business Partner,Human Resources,Female,Caucasian,26,88921,0,United States
+E02082,Ian Cheng,Sr. Manager,Sales,Male,Asian,46,126704,0.14,United States
+E02083,Penelope Chan,Analyst II,Accounting,Female,Asian,59,57704,0,China
+E02084,Sofia Vasquez,Director,Sales,Female,Latino,52,191455,0.24,Brazil
+E02085,Anthony Baker,Solutions Architect,IT,Male,Caucasian,31,99937,0,United States
+E02086,Lucas Luong,Analyst,Marketing,Male,Asian,42,40778,0,China
+E02087,Xavier Patel,Director,Marketing,Male,Asian,53,187740,0.16,United States
+E02088,Robert Soto,HRIS Analyst,Human Resources,Male,Latino,47,72384,0,Brazil
+E02089,Nevaeh Jiang,Sr. Manager,Marketing,Female,Asian,45,143318,0.12,China
+E02090,Chloe Reyes,Director,Human Resources,Female,Latino,45,191304,0.17,United States
+E02091,Lucy Edwards,Director,Human Resources,Female,Black,33,175875,0.21,United States
+E02092,Luna Edwards,Manager,Sales,Female,Black,42,106726,0.09,United States
+E02093,Stella Daniels,Cloud Infrastructure Architect,IT,Female,Black,37,72637,0,United States
+E02094,Ayla Ma,Manager,Marketing,Female,Asian,27,118304,0.07,China
+E02095,Matthew Avila,Computer Systems Manager,IT,Male,Latino,55,68592,0.08,Brazil
+E02096,Gianna Lim,Analyst,Accounting,Female,Asian,46,42532,0,China
+E02097,Joseph Tan,Technical Architect,IT,Male,Asian,37,65073,0,China
+E02098,Connor Lai,Engineering Manager,Engineering,Male,Asian,32,111035,0.12,United States
+E02099,Ava Owens,Analyst II,Finance,Female,Caucasian,28,63066,0,United States
+E02100,Dylan Aguilar,Director,Engineering,Male,Latino,49,186192,0.27,Brazil
+E02101,Leah Zheng,Director,Engineering,Female,Asian,52,182938,0.23,China
+E02102,Jade Pham,Analyst,Accounting,Female,Asian,61,53931,0,China
+E02103,Theodore Bui,Vice President,Sales,Male,Asian,53,252140,0.38,China
+E02104,Asher Chan,Sr. Business Partner,Human Resources,Male,Asian,40,73041,0,China
+E02105,Ezekiel Brown,Manager,Finance,Male,Caucasian,27,120315,0.08,United States
+E02106,Peyton Allen,Manager,Marketing,Female,Caucasian,26,112264,0.05,United States
+E02107,Parker Joseph,Systems Analyst,IT,Male,Caucasian,53,55039,0,United States
+E02108,Kayden Ortiz,Sr. Manager,Accounting,Male,Latino,33,134782,0.15,Brazil
+E02109,Lillian Desai,Field Engineer,Engineering,Female,Asian,27,92806,0,China
+E02110,Avery Gutierrez,Vice President,Marketing,Female,Latino,56,181028,0.38,United States
+E02111,Caroline Sandoval,Analyst,Sales,Female,Latino,36,48117,0,Brazil
+E02112,Hailey Lim,Director,Marketing,Female,Asian,47,192753,0.17,China
+E02113,Roman Liang,Sr. Analyst,Sales,Male,Asian,28,85206,0,China
